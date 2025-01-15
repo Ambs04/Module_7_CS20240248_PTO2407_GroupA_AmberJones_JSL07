@@ -34,12 +34,12 @@ document.addEventListener("DOMContentLoaded", function () {
       with legendary perseverance and world-class bad assery for never giving up<br/>
       </p>
       <p>
-      <img src='logo.png' alt='CodeSpace Academy Logo/>
+      <img src='logo.png' alt='CodeSpace Academy Logo' width=100% height = 30%>
       </p>
       <p>
       ${personalMessage}
       </p>
-    `;
+      `;
 
     //  Display the modal
     modal.style.display = "block";
