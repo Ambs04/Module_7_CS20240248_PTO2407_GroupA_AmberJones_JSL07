@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
   
       // 🚨 Generate certificate content dynamically
-      certificateContent. = `
+      certificateContent.innerHTML = `
       <h2>Certificate of Achievement</h2>
       <p>This is to certify that<br/>
       <h3>${studentName}</h3><br/>
