@@ -34,6 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
       with legendary perseverance and world-class bad assery for never giving up<br/>
       </p>
       <p>
+      <img src='logo.png' alt='CodeSpace Academy Logo/>
       </p>
       <p>
       ${personalMessage}
