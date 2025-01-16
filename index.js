@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <h3>${studentName}</h3><br/>
       has almost completed the <br/>
       <h3>${courseName}</h3>
-      with legendary perseverance and world-class bad assery for never giving up<br/>
+      with legendary perseverance and world-class bad assery for never giving up 🏆<br/>
       </p>
       <p>
       <img src='logo.png' alt='CodeSpace Academy Logo' width=50% height = 30%>
