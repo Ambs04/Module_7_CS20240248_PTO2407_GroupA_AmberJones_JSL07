@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
       with legendary perseverance and world-class bad assery for never giving up<br/>
       </p>
       <p>
-      <img src='logo.png' alt='CodeSpace Academy Logo' width=100% height = 30%>
+      <img src='logo.png' alt='CodeSpace Academy Logo' width=50% height = 30%>
       </p>
       <p>
       ${personalMessage}
@@ -53,6 +53,5 @@ document.addEventListener("DOMContentLoaded", function () {
   //  🚨 Close the modal when the close button is clicked
   closeModal.addEventListener("click", function () {
     modal.style.display = "none";
-    closeModal.style.cursor = "pointer";
   });
 });
